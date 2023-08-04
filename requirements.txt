@@ -1,0 +1,10 @@
+python-dotenv
+
+# Langchain and dependencies
+openai
+langchain
+duckduckgo-search
+
+# Streamlit and custom components
+streamlit
+st-pages
