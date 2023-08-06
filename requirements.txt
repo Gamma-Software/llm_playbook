@@ -1,9 +1,20 @@
 python-dotenv
 
+# Third-party integration
+python-telegram-bot
+emoji
+
 # Langchain and dependencies
 openai
 langchain
 duckduckgo-search
+tiktoken
+google-search-results
+faiss-cpu
+pdfminer-six
+unstructured
+pdf2image
+pytesseract
 
 # Streamlit and custom components
 streamlit

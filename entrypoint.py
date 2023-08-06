@@ -42,6 +42,6 @@ st_pages.show_pages(
         Page("entrypoint.py", "Home", "🏠"),
         Section("Chatbots", icon="💬"),
         Page("streamlit_apps/chatbots/chatgptlike.py", "ChatGPT like", "💬"),
-        Page("streamlit_apps/chatbots/searchagent.py", "Search Agent", "🔎"),
+        Page("streamlit_apps/chatbots/tool_augmented_chatbot.py", "Tool Agent", "🔎"),
     ]
 )
